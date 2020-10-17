@@ -1,0 +1,2 @@
+#First file with VSCode
+hey this is my first file with vscode
